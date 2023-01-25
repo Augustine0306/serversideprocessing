@@ -123,10 +123,12 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT:
-![output](./out.png)
+![out](https://user-images.githubusercontent.com/119404460/214468424-38a1e44e-d5c4-40f1-bf2f-13b301580488.png)
+
 
 ### Home Page:
-![Home Page](./home.png)
+![area ](https://user-images.githubusercontent.com/119404460/214468476-7cc243ca-f4d0-45fe-a2ea-83013d86c632.png)
+
 
 ## Result:
 The program for implementing server side processing is completed successfully.
